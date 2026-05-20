@@ -1,0 +1,8 @@
+venv/
+.env
+**pycache**/
+.ipynb_checkpoints/
+outputs/
+*.pkl
+*.joblib
+echo data/raw/household_power_consumption.txt >> .gitignore
