@@ -203,51 +203,6 @@ ChronoGuard AI includes an LLM-powered chatbot capable of answering questions su
 
 ---
 
-# 🛠️ Tech Stack
-
-## Languages
-
-* Python
-
-## ML & Forecasting
-
-* XGBoost
-* Statsmodels
-* Prophet
-* Scikit-learn
-
-## Visualization
-
-* Matplotlib
-* Plotly
-
-## Dashboard
-
-* Streamlit
-
-## LLM
-
-* Groq API
-* Llama 3
-
----
-
-# 📊 Dataset
-
-Dataset Used:
-
-UCI Household Power Consumption Dataset
-
-The dataset contains:
-
-* household energy usage
-* voltage
-* current intensity
-* sub-metering measurements
-* temporal consumption patterns
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
