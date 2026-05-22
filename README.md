@@ -323,9 +323,9 @@ streamlit run dashboard/app.py
 
 # 📷 Dashboard Preview
 
-![]()
-![]()
-![]()
+![dashboard](dashboard/image-tsa-1.png)
+![dashboard](dashboard/image-tsa-2.png)
+![dashboard](dashboard/image-tsa-3.png)
 
 
-Electronics & Communication Engineering
+
