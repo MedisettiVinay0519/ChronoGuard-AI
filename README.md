@@ -38,7 +38,7 @@ to create a production-style AI analytics platform for household energy consumpt
 ✅ Interactive Streamlit Dashboard
 ---
 ✅ Professional Production-Style Project Structure
-
+---
 ---
 
 # 🧠 Models Used
