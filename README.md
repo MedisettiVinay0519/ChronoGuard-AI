@@ -23,14 +23,14 @@ to create a production-style AI analytics platform for household energy consumpt
 
 # 🚀 Key Features
 
-✅ Modular ML Pipeline Architecture
-✅ Smart Energy Consumption Forecasting
-✅ XGBoost-Based Forecasting Engine
-✅ Residual-Based Anomaly Detection
-✅ AI-Generated Energy Insights using LLMs
-✅ Conversational AI Analytics Chatbot
-✅ Interactive Streamlit Dashboard
-✅ Professional Production-Style Project Structure
+*✅ Modular ML Pipeline Architecture
+*✅ Smart Energy Consumption Forecasting
+*✅ XGBoost-Based Forecasting Engine
+*✅ Residual-Based Anomaly Detection
+*✅ AI-Generated Energy Insights using LLMs
+*✅ Conversational AI Analytics Chatbot
+*✅ Interactive Streamlit Dashboard
+*✅ Professional Production-Style Project Structure
 
 ---
 
